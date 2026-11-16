@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProMonitor 360</string>
+    <string name="app_subtitle">شاشة مراقبة احترافية وتحكم بالكاميرا</string>
+    <string name="nav_dashboard">الرئيسية</string>
+    <string name="nav_monitor">المراقب</string>
+    <string name="nav_control">التحكم</string>
+    <string name="nav_tools">الأدوات</string>
+    <string name="nav_gallery">المعرض</string>
+    <string name="action_scan_usb">فحص USB / HDMI</string>
+    <string name="action_wizard">معالج الاتصال</string>
+    <string name="action_diagnostics">مركز التوافق</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="action_luts">مدير LUT</string>
+    <string name="action_cameras">ملفات الكاميرا</string>
+    <string name="status_connected">متصل</string>
+    <string name="status_disconnected">لا توجد إشارة</string>
+    <string name="status_recording">تسجيل</string>
+    <string name="preview_only_badge">للمعاينة فقط — لا يغيّر ملف الكاميرا</string>
+</resources>

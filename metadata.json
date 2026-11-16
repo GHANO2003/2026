@@ -1,0 +1,6 @@
+{
+  "name": "ProMonitor 360",
+  "description": "Professional Android external DSLR field monitor and camera controller for Nikon D5600, Nikon D5500, and Canon EOS 90D with UVC HDMI capture, real-time scopes, focus peaking, LUTs, MP4 recording, and Wi-Fi/USB remote control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

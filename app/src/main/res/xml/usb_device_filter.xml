@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UVC Video Class Devices (HDMI Capture Cards) -->
+    <usb-device class="14" />
+    <!-- PTP / Still Image Class Devices (Nikon & Canon DSLR USB Control) -->
+    <usb-device class="6" />
+    <!-- Known Camera Vendors: Nikon (0x04B0 = 1200), Canon (0x04A9 = 1193) -->
+    <usb-device vendor-id="1200" />
+    <usb-device vendor-id="1193" />
+</resources>
